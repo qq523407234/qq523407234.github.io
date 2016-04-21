@@ -14,7 +14,7 @@ header-img: "img/zhihu.jpg"
 ###代表作：
 
 
-- [《痰》](http://www.jianshu.com/p/6f1404e0240d)](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《痰》](http://tieba.baidu.com/p/2775972431)
 
 
 
