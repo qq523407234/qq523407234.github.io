@@ -52,5 +52,5 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- [博客：www.sbboys.cn](www.sbboys.cn)
+- [博客：www.sbboys.cn](http://www.sbboys.cn)
 
