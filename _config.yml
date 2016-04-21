@@ -18,9 +18,9 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: qq523407234
 facebook_username: 
-weibo_username: 
+weibo_username: 东东是个大狸砸
 zhihu_username: 
 
 # Build settings  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat" # 你的名字
+      author: "SbBoys" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

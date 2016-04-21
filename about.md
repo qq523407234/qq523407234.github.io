@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://g.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=94add9bb758b4710ca2ff9c8f3fef88c/6a63f6246b600c33a948ff521d4c510fd9f9a172.jpg" align="center"></p>
+    <p><img src="http://g.picphotos.baidu.com/album/s%3D1400%3Bq%3D90/sign=94add9bb758b4710ca2ff9c8f3fef88c/6a63f6246b600c33a948ff521d4c510fd9f9a172.jpg" align="center" width="150px" height="150px"></p>
 </center>
 
 我是高三土，每天千字践行者，感谢这段经历，让我成为了现在的我。
@@ -52,12 +52,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- 博客：[www.sbboys.cn](www.sbboys.cn)
+- 博客：
 
-
-
-
-
-
-
+  [www.sbboys.cn​]: www.sbboys.cn
 
