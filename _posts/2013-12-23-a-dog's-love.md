@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一只狗的爱情
+title: 一只狗的爱情-abc
 date: 2013-12-23
 categories: blog
 tags: [狗,爱情]
