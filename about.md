@@ -46,7 +46,7 @@ header-img: "img/green.jpg"
 
 ### 我的朋友们
 
-- [Sixer](http://yilee.me)
+- <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=j_7j5uPg_er94OHovry_u8-55v_h-v6h7ODi" style="text-decoration:none;">Sixer</a>
 - [Naner](http://caos.me)
 - [Yuaner](http://azeril.me)
 
