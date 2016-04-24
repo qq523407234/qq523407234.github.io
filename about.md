@@ -46,9 +46,9 @@ header-img: "img/green.jpg"
 
 ### 我的朋友们
 
-- <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Xi03JjssHi08PDEnLXA9MA" style="text-decoration:none;">Sixer</a>
-- EDG.WynAN
-- Shoky
+- [Sixer](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Xi03JjssHi08PDEnLXA9MA)
+- [EDG.WynAN]()
+- [Shoky]()
 
 
 ### 联系
